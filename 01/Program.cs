@@ -1,4 +1,5 @@
-﻿
+﻿// 01. По двум заданным числам проверять является ли первое квадратом второго
+
 Console.Write("Введи цифру a  ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введи цифру b  ");

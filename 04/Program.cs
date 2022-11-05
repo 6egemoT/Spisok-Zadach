@@ -2,9 +2,9 @@
 
 Console.Write("Введи цифру a  ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введи цифру a  ");
+Console.Write("Введи цифру b  ");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введи цифру a  ");
+Console.Write("Введи цифру c  ");
 int c = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
